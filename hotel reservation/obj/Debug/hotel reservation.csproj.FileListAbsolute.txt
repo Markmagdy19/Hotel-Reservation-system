@@ -1,0 +1,15 @@
+C:\Users\wwewq\source\repos\hotel reservation\bin\Debug\hotel reservation.exe.config
+C:\Users\wwewq\source\repos\hotel reservation\bin\Debug\hotel reservation.exe
+C:\Users\wwewq\source\repos\hotel reservation\bin\Debug\hotel reservation.pdb
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Properties.Resources.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel reservation.csproj.GenerateResource.cache
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel reservation.csproj.CoreCompileInputs.cache
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel reservation.exe
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel reservation.pdb
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.FormCheckin.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.FormRooms.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.FormHome.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.Formlogin.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.Checkout.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.Reservation.resources
+C:\Users\wwewq\source\repos\hotel reservation\obj\Debug\hotel_reservation.Forms.FrmRooms.resources
